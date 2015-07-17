@@ -5,8 +5,34 @@
 		<title></title>
 	</head>
 	<body>
+
+		<h1>
+			Personal Website Project
+		</h1>
+
+		<!-- Purpose -->
+		<h2>
+			Purpose:
+		</h2>
 		<p>
-			Milestone 1.
+			This is the purpose.
 		</p>
+
+		<!-- Audience -->
+		<h2>
+			Audience:
+		</h2>
+		<p>
+			This is the audience.
+		</p>
+
+		<!-- Goal -->
+		<h2>
+			Goal:
+		</h2>
+		<p>
+			This is the goal.
+		</p>
+
 	</body>
 </html>
