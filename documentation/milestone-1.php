@@ -6,6 +6,9 @@
 		<!-- CSS -->
 		<link rel="stylesheet" type="text/css" href="../css/documentation.css">
 
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
 		<!-- Google Fonts -->
 		<link
 			href='https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic,100,100italic|Roboto+Condensed:300italic,400italic,700italic,400,300,700'
@@ -27,7 +30,7 @@
 			<div id="purpose" class="full-width padding-top-50">
 				<div class="container">
 					<h2 class="thin">
-						Purpose:
+						<i class="fa fa-check-square-o"></i> Purpose:
 					</h2>
 
 					<p>
@@ -46,7 +49,7 @@
 			<div id="audience" class="full-width">
 				<div class="container">
 					<h2 class="thin">
-						Audience:
+						<i class="fa fa-check-square-o"></i> Audience:
 					</h2>
 
 					<p>
@@ -68,7 +71,7 @@
 			<div id="goal" class="full-width">
 				<div class="container">
 					<h2 class="thin">
-						Goal:
+						<i class="fa fa-check-square-o"></i> Goal:
 					</h2>
 
 					<p>

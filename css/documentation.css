@@ -12,7 +12,7 @@ h2 {
 	margin: 0 50px 20px 50px;
 	padding: 0 0 10px 0;
 
-	width: 10%;
+	width: 15%;
 	min-width: 100px;
 
 	border-bottom: 4px solid #70986F;
@@ -43,6 +43,10 @@ a {
 }
 a:hover {
 	text-decoration: underline;
+}
+
+i {
+	color: #70986F;
 }
 
 .global {
