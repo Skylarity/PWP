@@ -31,7 +31,8 @@
 					</h2>
 
 					<p>
-						The purpose of this website will be to act as a portfolio for all of the content I've created.
+						The purpose of <a href="..">this website</a> will be to act as a portfolio for all of the content I've created.
+						It will be a way to show future employers and clients what skills I have, and how I design.
 					</p>
 
 					<div class="hr"></div>
@@ -46,7 +47,8 @@
 					</h2>
 
 					<p>
-						The audience of this website will be employers and/or customers.
+						The main audience of <a href="..">this website</a> will be clients. This website will be a way to show off my
+						talents and knowledge to <em>$moneyGivers</em>, as well as give them a way to do business with me.
 					</p>
 
 					<div class="hr"></div>
@@ -61,10 +63,8 @@
 					</h2>
 
 					<p>
-						The goal of this website will be to elegantly and clearly convey all of my skills and prior
-						works,
-						and
-						attract potential employers and customers.
+						The goal of <a href="..">this website</a> will be to elegantly and clearly convey all of my skills and prior
+						works, and attract potential employers and customers.
 					</p>
 				</div>
 			</div>
