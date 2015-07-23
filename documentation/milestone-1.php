@@ -56,6 +56,10 @@
 						me.
 					</p>
 
+					<p>
+						This website will also be a way to collaborate with other developers and artists.
+					</p>
+
 					<div class="hr"></div>
 				</div>
 			</div>
