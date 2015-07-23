@@ -10,8 +10,6 @@
 			Personal Website Project
 		</h1>
 
-		<p>
-
 		<h2>
 			Documentation:
 		</h2>
@@ -20,6 +18,5 @@
 				<a href="documentation/milestone-1.php">Milestone 1</a>
 			</li>
 		</ol>
-		</p>
 	</body>
 </html>
