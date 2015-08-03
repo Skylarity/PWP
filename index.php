@@ -17,6 +17,9 @@
 			<li>
 				<a href="documentation/milestone-1.php">Milestone 1</a>
 			</li>
+			<li>
+				<a href="documentation/milestone-2.php">Milestone 2</a>
+			</li>
 		</ol>
 	</body>
 </html>

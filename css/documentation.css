@@ -33,7 +33,6 @@ li {
 em {
 	color: #70986F;
 	font-family: 'Roboto Condensed', sans-serif;
-	font-style: normal;
 }
 
 a {
@@ -41,6 +40,7 @@ a {
 	font-style: normal;
 	text-decoration: none;
 }
+
 a:hover {
 	text-decoration: underline;
 }
