@@ -1,0 +1,143 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+/* HEADER STUFF */
+
+header {
+	background: #222222;
+	color: #FFFFFF;
+}
+
+h1 {
+	margin: 0;
+	display: inline-block;
+}
+
+.logo {
+	display: inline;
+	width: auto;
+	height: 40px;
+	vertical-align: top;
+}
+
+.nav li a {
+	color: #FFFFFF;
+	font-size: 1.2em;
+}
+
+.nav li:hover a {
+	color: #222222;
+}
+
+/* /HEADER STUFF */
+
+/* BODY STUFF */
+
+p {
+	font-size: 1.1em;
+}
+
+.bg-image {
+	background: url(../images/bg.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.white-text {
+	color: #FFFFFF;
+}
+
+.main-text {
+	font-size: 10em;
+}
+
+.center {
+	text-align: center;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.margin-auto {
+	margin: auto;
+}
+
+.thin {
+	font-weight: 200;
+}
+
+.smaller {
+	font-size: 0.7em;
+}
+
+.larger {
+	font-size: 1.2em;
+}
+
+.main-title {
+	padding: 50px 0;
+}
+
+.call-to-action {
+	margin: auto;
+	display: block;
+	padding: 42px;
+	width: 42%;
+	height: auto;
+	background-color: #FFFFFF;
+	color: #FF3800;
+	font-size: 5em;
+	border-radius: 30px;
+	transition: all 0.3s ease 0s;
+}
+
+.call-to-action:hover {
+	background-color: #FF3800;
+	color: #FFFFFF;
+}
+
+/* /BODY STUFF */
+
+/* FOOTER STUFF */
+
+footer {
+	background-color: #222222;
+	color: #FFFFFF;
+	padding: 10px 0;
+	margin: 40px 0 0 0;
+}
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html {
+	display: flex;
+}
+
+body {
+	width: 100%;
+}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
+
+.email {
+	color: #FFFFFF;
+}
+
+.email:hover {
+	color: #FFFFFF;
+}
+
+/* /FOOTER STUFF */
