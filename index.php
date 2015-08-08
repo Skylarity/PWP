@@ -48,34 +48,40 @@
         <div class="sfooter-content">
             <header>
                 <div class="container">
-                    <img class="logo" src="images/robot-white-inverted.png"/>
+                    <div class="row">
+                        <div class="col-md-7">
+                            <img class="logo" src="images/robot-white-inverted.png"/>
 
-                    <h1>SKYLARITY - <span class="thin">SKYLER REXROAD</span></h1>
-                    <ul class="nav navbar-nav pull-right">
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-home"></i>
-                                Home
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-laptop"></i>
-                                Websites</a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-headphones"></i>
-                                Music
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-envelope"></i>
-                                Contact
-                            </a>
-                        </li>
-                    </ul>
+                            <h1>SKYLARITY - <span class="thin">SKYLER REXROAD</span></h1>
+                        </div>
+                        <div class="col-md-5">
+                            <ul class="nav navbar-nav pull-right">
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-home"></i>
+                                        Home
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-laptop"></i>
+                                        Websites</a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-headphones"></i>
+                                        Music
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-envelope"></i>
+                                        Contact
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </header>
 

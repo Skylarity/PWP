@@ -49,6 +49,13 @@ i {
 	color: #70986F;
 }
 
+img {
+	margin: auto;
+	width: auto;
+	height: 500px;
+	text-align: center;
+}
+
 .global {
 	margin: auto;
 	width: 100%;
