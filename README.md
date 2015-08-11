@@ -6,3 +6,9 @@ Excellent work. All requirements have been met, your project has been set up cor
 
 ###Suggestions
 Nitpick: Consider renaming your repository to reflect either your URL or project name.
+
+###Milestone 3 Feedback
+Awesome job on the wireframes. This layout should work really really well with Bootstrap. Your Milestone 3 passes at Tier IV.
+ 
+##Suggestions
+- Take a look at the [Swipebox](http://brutaldesign.github.io/swipebox) plugin for your gallery
