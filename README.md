@@ -12,3 +12,7 @@ Awesome job on the wireframes. This layout should work really really well with B
  
 ##Suggestions
 - Take a look at the [Swipebox](http://brutaldesign.github.io/swipebox) plugin for your gallery
+
+###Milestone 4 Feedback
+- I think the issue with the swipebox arrows is that they rely on some icon files that need to uploaded to your project. Take a look in the images driectory of the plugin files for icons.svg
+- Awesome job - this looks great!
